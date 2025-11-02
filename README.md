@@ -126,7 +126,6 @@ Log includes:
 - WebDriverManager Bonigarcia
 - SLF4J
 - Monte Screen Recorder
-- 
 ---
 
 ## 🎯 Deliverables Checklist (Case)
