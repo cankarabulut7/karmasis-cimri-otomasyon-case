@@ -1,0 +1,8 @@
+base/ScreenRecorderUtil.class
+pages/cimri/CimriSearchPage.class
+pages/cimri/CimriOfferListPage.class
+base/CustomScreenRecorder.class
+pages/cimri/CimriOfferListPage$Offer.class
+base/DriverFactory.class
+utils/Config.class
+pages/marketplacepage/PttavmPage.class
