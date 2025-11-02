@@ -120,7 +120,7 @@ Log includes:
 
 ## 📎 Tools & Dependencies
 
-- Java 23
+- Java 17
 - Selenium WebDriver
 - TestNG
 - WebDriverManager Bonigarcia
