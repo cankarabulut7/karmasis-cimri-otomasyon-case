@@ -23,7 +23,7 @@ public class CimriSearchPage {
     public void acceptCookies() {
         try {
             WebElement cookieBtn = new WebDriverWait(driver, Duration.ofSeconds(5))
-                    .until(ExpectedConditions.elementToBeClickable(By.id("#cookiescript_accept")));
+                    .until(ExpectedConditions.elementToBeClickable(By.id("cookiescript_accept")));
             cookieBtn.click();
 
         } catch (Exception ignored) { }
